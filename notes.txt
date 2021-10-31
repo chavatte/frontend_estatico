@@ -1,0 +1,23 @@
+==================
+FATOR DE RESOLUÇÃO
+==================
+
+LARGURA X ALTURA
+
+800 x 600 => 768px
+1024 x 768 => 960px
+1280 x 1024 => 1200px (RESOLUÇÃO MINIMA)
+
+===================
+METODOLOGIAS DE CSS
+===================
+
+BEM - Block Element Modifier
+
+.block { }
+
+.block__element { }
+
+.block--modifer { }
+
+.block__element--modifer { }
